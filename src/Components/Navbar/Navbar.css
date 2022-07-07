@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Raleway:wght@500&display=swap');
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+}
+
+.logo{
+ position: fixed;
+ left: 34px;
+ width: 119px;
+
+}
+
+.lef{
+    top:15px;
+    position: fixed;
+    right: 20px;
+}
+.ooo{
+    color: white;
+   padding-left: 30px;
+   margin-left: 100px;
+   margin-right: 12px;
+   font-family: 'Raleway', sans-serif;
+   font-weight: 300;
+}
+
+.b1{
+    padding: 8px;
+    margin-left: 23px;
+    background-color: red;
+    color: white;
+    border-radius: 3.5px;
+}
+.b2{
+    padding: 8px;
+    margin-left: 14px;
+    background-color: #111;
+    color: white;
+    border-radius: 3.5px;
+  
+    border: .4px solid #f8f8f8;
+    border-color: #535353;
+}

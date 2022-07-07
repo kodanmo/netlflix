@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@700&display=swap');
+
+.row{
+    margin-left: 20px;
+    color: azure;
+}
+.post{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.post::-webkit-scrollbar {
+    display: none;
+}
+h2{
+    margin-left: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.po{
+
+    height: 257px;
+    margin-right: 48px;
+    cursor: pointer;
+}
+.sp{
+    height: 150px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.po:hover{
+
+    transform: scale(1.04);
+}
+
+
+.sp:hover{
+    transform: scale(1.04);
+}
